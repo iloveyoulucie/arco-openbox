@@ -1,12 +1,6 @@
 # ArcoLinux BYOI OPENBOX desktop
 
-# Get your code to build your own iso
-
-	git clone https://github.com/arcolinuxb/arco-openbox
-
-# Follow installation tutorials on
-
-https://arcolinuxb.com
+I cloned this from https://github.com/arcolinuxb/arco-openbox and am making my own, slightly different, version
 
 # Websites
 
